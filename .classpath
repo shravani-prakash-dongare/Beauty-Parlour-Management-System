@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/webapp/CSS1"/>
+	<classpathentry kind="src" path="src/main/webapp/img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Users/Shravani/MySQL JDBC/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Shravani/MySQL JDBC/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Shravani/MySQL JDBC/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Shravani/MySQL JDBC/rs2xml.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
